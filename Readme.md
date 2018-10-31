@@ -1,6 +1,6 @@
 # ZhiHu
 # 使用说明
-#### @author Eachen Kuang
+#### @author Black-W
 
 ## 1、架构说明
 * ZhiHu*
