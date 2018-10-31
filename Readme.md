@@ -5,8 +5,10 @@
 ## 1、架构说明
 * ZhiHu*
     * Data*
-    - main.py
-    - requirements.txt
+        * Answers*
+        * Login
+            - token.pkl
+    - demo.py
 
 带*的表示文件夹
 
